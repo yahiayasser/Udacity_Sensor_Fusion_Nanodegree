@@ -1,0 +1,17 @@
+#ifndef PROJECT_CFG_H
+#define PROJECT_CFG_H
+
+/* HARRIS, FAST, BRISK, ORB, AKAZE, SIFT, SHITOMASI */
+#define DETECTOR_TYPE   "FAST"
+
+/* BRISK, BRIEF, ORB, FREAK, AKAZE, SIFT */
+#define DESCRIPTOR_TYPE "BRIEF"
+
+/* MAT_BF, MAT_FLANN */
+#define MATCHER_TYPE    "MAT_BF"
+
+/* SEL_NN, SEL_KNN */
+#define SELECTOR_TYPE   "SEL_KNN"
+
+
+#endif

@@ -1,0 +1,3 @@
+/home/yahia/CameraFinalProject/build/CMakeFiles/rebuild_cache.dir
+/home/yahia/CameraFinalProject/build/CMakeFiles/FinalProject_Camera.dir
+/home/yahia/CameraFinalProject/build/CMakeFiles/edit_cache.dir
